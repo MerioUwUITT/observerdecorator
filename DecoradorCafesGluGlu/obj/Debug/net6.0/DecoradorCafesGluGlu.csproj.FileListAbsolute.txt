@@ -1,0 +1,15 @@
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\DecoradorCafesGluGlu.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\DecoradorCafesGluGlu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\DecoradorCafesGluGlu.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\DecoradorCafesGluGlu.AssemblyInfo.cs
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\DecoradorCafesGluGlu.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\bin\Debug\net6.0\DecoradorCafesGluGlu.exe
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\bin\Debug\net6.0\DecoradorCafesGluGlu.deps.json
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\bin\Debug\net6.0\DecoradorCafesGluGlu.runtimeconfig.json
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\bin\Debug\net6.0\DecoradorCafesGluGlu.dll
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\bin\Debug\net6.0\DecoradorCafesGluGlu.pdb
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\DecoradorCafesGluGlu.dll
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\refint\DecoradorCafesGluGlu.dll
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\DecoradorCafesGluGlu.pdb
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\DecoradorCafesGluGlu.genruntimeconfig.cache
+C:\Users\Mario\source\repos\DecoradorCafesGluGlu\obj\Debug\net6.0\ref\DecoradorCafesGluGlu.dll

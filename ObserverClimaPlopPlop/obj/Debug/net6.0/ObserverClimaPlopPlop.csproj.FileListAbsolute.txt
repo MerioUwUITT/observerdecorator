@@ -1,0 +1,15 @@
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\ObserverClimaPlopPlop.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\ObserverClimaPlopPlop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\ObserverClimaPlopPlop.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\ObserverClimaPlopPlop.AssemblyInfo.cs
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\ObserverClimaPlopPlop.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\bin\Debug\net6.0\ObserverClimaPlopPlop.exe
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\bin\Debug\net6.0\ObserverClimaPlopPlop.deps.json
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\bin\Debug\net6.0\ObserverClimaPlopPlop.runtimeconfig.json
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\bin\Debug\net6.0\ObserverClimaPlopPlop.dll
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\bin\Debug\net6.0\ObserverClimaPlopPlop.pdb
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\ObserverClimaPlopPlop.dll
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\refint\ObserverClimaPlopPlop.dll
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\ObserverClimaPlopPlop.pdb
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\ObserverClimaPlopPlop.genruntimeconfig.cache
+C:\Users\Mario\source\repos\ObserverClimaPlopPlop\obj\Debug\net6.0\ref\ObserverClimaPlopPlop.dll
